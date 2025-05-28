@@ -70,7 +70,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/OQ8a2F1KMzwAAAAm/maxwell-cat.webp"  />
+  <img height="200" src="https://media.tenor.com/KdnRtRdEt24AAAAm/explosion-missile.webp"  />
 </div>
 
 ###
