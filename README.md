@@ -1,18 +1,22 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/VJqYwn0A6P4AAAAM/exploding-cat-cat-blowing-up.gif"  />
+  <img height="150" src="https://media.tenor.com/VJqYwn0A6P4AAAAM/exploding-cat-cat-blowing-up.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXDSBwkJsAkBhyohjO8%3D" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge"/>
+  </a>
+  <a href="mailto:udayanjoshi12@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail badge"/>
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=azycr4yy.azycr4yy&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=azycr4yy.azycr4yy&" />
 </div>
 
 ###
@@ -21,56 +25,49 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👋 About Me</h3>
+
+<p align="left">
+  Hey! I'm <strong>Udayan</strong>, a 2nd-year B.Tech student who's really into tech, especially Python and AI.<br><br>
+  I'm mostly working in Python these days, building projects while learning how machine learning and AI really work.<br><br>
+  🔍 Exploring ML, AI, and data through hands-on experimentation<br>
+  🐍 Python is my main language, but I'm also familiar with MySQL, Dart, and Java<br>
+  🧠 Learning PyTorch, scikit-learn, and TensorFlow right now<br>
+  💡 Always up for building useful things and learning something new<br>
+</p>
 
 ###
 
-<br clear="both">
-
-<p align="left">Hi there! I'm Udayan, a 2nd-year B.Tech student with a strong interest in software development and artificial intelligence.<br>I'm primarily a Python developer, currently diving deep into Machine Learning and AI, and building projects to sharpen my skills.<br><br>🔬 Exploring the world of AI/ML through hands-on projects and research.<br><br>🐍 Fluent in Python, with a growing command of MySQL, Dart, and Java.<br><br>🛠️ Always eager to learn new technologies and solve real-world problems through code.<br><br>🌱 Currently learning: advanced Python libraries for ML like scikit-learn, PyTorch, and TensorFlow.<br><br>🚀 Goal: To contribute to impactful open-source AI tools and build scalable backend systems.</p>
-
-###
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
+<h3 align="center">🛠 Languages and Tools</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats:</h3>
 
-###
-
-<img align="right" height="190" src="https://media.tenor.com/NwY5ppxLs_oAAAAM/kitten-keybo.gif"  />
-
-###
+<img align="right" height="190" src="https://media.tenor.com/NwY5ppxLs_oAAAAM/kitten-keybo.gif" />
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=azycr4yy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=azycr4yy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak stats" />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/KdnRtRdEt24AAAAm/explosion-missile.webp"  />
+  <img height="200" src="https://media.tenor.com/KdnRtRdEt24AAAAm/explosion-missile.webp" />
 </div>
-
-###
