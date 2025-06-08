@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXDSBwkJsAkBhyohjO8%3D" target="_blank">
+  <a href="https://in.linkedin.com/in/udayan-joshi-4034b0368" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge"/>
   </a>
   <a href="mailto:udayanjoshi12@gmail.com">
